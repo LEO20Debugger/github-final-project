@@ -4,9 +4,9 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Upkar Lidder (IBM)
+   # Author: Leonard Oba (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # <LEO20Debugger>
 
    # Input:
    # p, principal amount
